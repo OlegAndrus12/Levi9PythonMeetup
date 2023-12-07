@@ -1,5 +1,5 @@
 # [Levi9PythonMeetup](https://www.levi9.com.ua/)
-Dear listeners, in this repository you have a unique opportunity to try our projects presented on meetup yourself. Please follow the instructions described in README files per project.
+Dear listeners, in this repository you have a unique opportunity to try our projects presented on meetup yourself.
 
 Have fun :rocket:
 
